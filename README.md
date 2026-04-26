@@ -6,11 +6,8 @@ About this Edition
 
 This version includes:
 
-A full English translation of Ayelet Hashachar
-Explanatory comments on the Malbim’s interpretive rules
-Numbered footnotes referencing Biblical sources
-Page numbering for consistent citation
-A comprehensive index of Biblical citations
+A full English translation of Ayelet Hashachar, explanatory comments on the Malbim’s interpretive rules, numbered footnotes referencing Biblical sources, page numbering for consistent citation, a comprehensive index of Biblical citations.
+
 Acknowledgments
 
 I would like to express my sincere gratitude to Dr. Eric Chevlen for his valuable contributions to this edition.
